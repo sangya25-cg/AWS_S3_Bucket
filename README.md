@@ -1,5 +1,3 @@
-![Cloud Vault S3 Console](image.png)
-
 # Cloud Vault S3 Console
 
 A Streamlit-based web interface to interact with AWS S3 — upload, list, download, and delete files directly from your browser.
@@ -10,7 +8,7 @@ A Streamlit-based web interface to interact with AWS S3 — upload, list, downlo
 
 ## S3 Bucket
 
-![S3 Bucket Screenshot](assets/s3-screenshot.png)
+![Cloud Vault S3 Console](image.png)
 
 > Bucket: `s3-sangya-bucket-test` (eu-north-1 / Stockholm)
 
